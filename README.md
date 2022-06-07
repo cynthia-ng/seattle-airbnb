@@ -4,8 +4,8 @@
 
 # Motivation for the project
 
-# Files in the repository
+# File Descriptions
 
-# Summary of the results of the analysis
+# Results
 
 # Necessary acknowledgements
